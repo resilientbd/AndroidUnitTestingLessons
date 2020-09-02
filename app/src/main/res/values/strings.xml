@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AutometionTestSample</string>
+    <string name="email_label">Email</string>
+    <string name="email_hint">example@gmail.com</string>
+    <string name="save">Save</string>
+    <string name="revert">Revert</string>
+    <string name="settings_title">Setting</string>
+    <string name="name_label">name</string>
+    <string name="name_hint">your name here</string>
+    <string name="dob_label">Date Of Birth</string>
+</resources>
